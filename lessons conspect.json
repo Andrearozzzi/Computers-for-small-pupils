@@ -1,11 +1,14 @@
 {
   "default": true,
-  "MD001": false,
+  "MD001": false,}
+
 //Here we teach lessons individually for each student. //
     "icons": [
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
-        },
-        {
+        }
+
+
+      
